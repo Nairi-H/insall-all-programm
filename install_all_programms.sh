@@ -8,6 +8,8 @@ sudo apt-get install make
 
 sudo apt-get install git
 
+sudo apt-get install klavaro
+
 #zoom
 wget -O Downloads/zoom.deb https://zoom.us/client/latest/zoom_amd64.deb
 cd Downloads
